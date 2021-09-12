@@ -4,20 +4,20 @@ A minimalist answer framework provides a minimal answer to popular quests a fast
 
 ## To-do
 
-[x] index 
-[x] two asks 
-[x] refinement links 
-[x] pt 
-[ ] tag meta - author 
-[ ] tag meta - description 
-[ ] tag meta - keywords 
-[ ] publish 
-[ ] analytics plugin 
-[ ] ads account 
-[ ] ads plugin 
-[ ] five asks 
+- [x] index 
+- [x] two asks 
+- [x] refinement links 
+- [x] pt 
+- [ ] tag meta - author 
+- [ ] tag meta - description 
+- [ ] tag meta - keywords 
+- [ ] publish 
+- [ ] analytics plugin 
+- [ ] ads account 
+- [ ] ads plugin 
+- [ ] five asks 
 ------------- 
-[ ] en asks
+- [ ] en asks
 
 ## License
 
