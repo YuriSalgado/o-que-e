@@ -6,8 +6,8 @@ A minimalist answer framework provides a minimal answer to popular quests a fast
 
 [x] index
 [x] two asks
-[ ] refinement links
-[ ] pt
+[x] refinement links
+[x] pt
 [ ] tag meta - author
 [ ] tag meta - description
 [ ] tag meta - keywords
