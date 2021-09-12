@@ -21,4 +21,4 @@ A minimalist answer framework provides a minimal answer to popular quests a fast
 
 ## License
 
-Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Licensed under the [MIT License](https://cjpatoilo.com/license).
+Designed with ♥ by [Milligram](milligram.io).
