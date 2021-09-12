@@ -21,4 +21,4 @@ A minimalist answer framework provides a minimal answer to popular quests a fast
 
 ## License
 
-Designed with ♥ by [Milligram](milligram.io).
+Designed with ♥ by [Milligram](https://milligram.io/).
